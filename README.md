@@ -8,4 +8,4 @@ Este repositorio contiene los 3 propuestos en Amaris
 
 2. Realizar una funcion que reciba un numero entero "id" de un pokemon y devuelva su nombre. Para esto la funcion debe consultar una api de pokemon enviarle el id y obtener el campo "nombre" el cual va a retornar. URL = https://pokeapi.co/api/v2/pokemon-form/{{id}}
 <br>
-[código]()
+[código](ejercicio2/main.go)
